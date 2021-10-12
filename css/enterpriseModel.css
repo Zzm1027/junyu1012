@@ -1,0 +1,78 @@
+.enterprise {
+  position: relative;
+  width: 38.4rem;
+  height: 16rem;
+  background: url("../assets/index/enterprise.png") no-repeat;
+}
+.enterpriseFont {
+  font-size: 0.72rem;
+  font-weight: normal;
+  position: absolute;
+  top: 2.3rem;
+  color: #FFFFFF;
+  left: 17.4rem;
+}
+.enterpriseFontCh {
+  font-size: 0.96rem;
+  font-weight: normal;
+  position: absolute;
+  top: 3.3rem;
+  color: #FFFFFF;
+  left: 17.5rem;
+}
+.enterpriseLine {
+  position: absolute;
+  width: 2.32rem;
+  height: 0.06rem;
+  background: #FFFFFF;
+  top: 5rem;
+  left: 18.2rem;
+}
+.enterprisePic {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  position: absolute;
+  top: 7rem;
+  width: 22.66rem;
+  left: 7.68rem;
+}
+.enterprisePic > div {
+  flex: 1;
+  width: 33.3%;
+  min-width: 33.3%;
+  max-width: 33.3%;
+  height: 4rem;
+}
+.pic1 {
+  background: url("../assets/index/1.png") no-repeat;
+}
+.pic2 {
+  background: url("../assets/index/2.png") no-repeat;
+}
+.pic3 {
+  background: url("../assets/index/3.png") no-repeat;
+}
+.pic5 {
+  background: url("../assets/index/4.png") no-repeat;
+}
+.picFont1 {
+  font-size: 0.6rem;
+  font-weight: 400;
+  color: #FFFFFF;
+  margin: 0.1rem 0.3rem;
+}
+.picFont2 {
+  width: 2.1rem;
+  height: 0.04rem;
+  background: #FFFFFF;
+  margin: 0.3rem 0.3rem;
+}
+.picFont3 {
+  width: 6.8rem;
+  font-size: 0.36rem;
+  font-weight: 400;
+  color: #FFFFFF;
+  line-height: 0.48rem;
+  margin: 0.4rem 0.3rem;
+}

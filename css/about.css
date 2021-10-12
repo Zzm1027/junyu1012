@@ -1,0 +1,269 @@
+.main {
+  width: 38.4rem;
+  height: 12.8rem;
+  background: url("../assets/about/pic3.png") no-repeat;
+}
+.content {
+  position: relative;
+  width: 38.4rem;
+  height: 12.8rem;
+  background-color: #F4F4F4;
+}
+.contentFont1 {
+  position: absolute;
+  top: 1.2rem;
+  left: 18.048rem;
+  font-size: 0.6rem;
+  font-weight: 400;
+  color: #0084FF;
+  line-height: 0.75rem;
+}
+.contentFont2 {
+  position: absolute;
+  top: 2.04rem;
+  left: 18.63rem;
+  width: 1.2rem;
+  height: 0.06rem;
+  background: #0084FF;
+}
+.contentFont3 {
+  position: absolute;
+  top: 4.8rem;
+  left: 9.729rem;
+  width: 19.2rem;
+  height: 5.04rem;
+  display: flex;
+}
+.contentFont3 > div {
+  flex: 1;
+}
+.bg1 {
+  position: relative;
+  background-color: #2A0721;
+  margin: 0.4rem;
+}
+.bg01 {
+  position: absolute;
+  top: 0.42rem;
+  left: 0.4rem;
+  font-size: 0.48rem;
+  font-weight: 400;
+  color: #FFFFFF;
+  line-height: 0rem;
+}
+.bg02 {
+  position: absolute;
+  top: 0.8rem;
+  left: 0.4rem;
+  width: 1.38rem;
+  height: 0.06rem;
+  background: #FFFFFF;
+}
+.bg03 {
+  position: absolute;
+  top: 1.2rem;
+  left: 0.4rem;
+  width: 5rem;
+  font-size: 0.2rem;
+  font-weight: 400;
+  color: #FFFFFF;
+  line-height: 0.6rem;
+}
+.font,
+.font1 {
+  position: absolute;
+  font-weight: normal;
+  color: #FFFFFF;
+}
+.font {
+  font-size: 1.2rem;
+  top: 6rem;
+  left: 17.28rem;
+}
+.font1 {
+  font-size: 0.6rem;
+  top: 8rem;
+  left: 18.43rem;
+}
+.quality {
+  position: relative;
+  width: 38.4rem;
+  height: 7.42rem;
+  background: url("../assets/about/pic1.png") no-repeat;
+}
+.quality1 {
+  position: absolute;
+  top: 3rem;
+  left: 11.52rem;
+  width: 26rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #FFFFFF;
+  line-height: 0.72rem;
+}
+.quality2 {
+  position: absolute;
+  top: 4.3rem;
+  left: 15.8rem;
+  width: 24rem;
+  height: 0.36rem;
+  font-size: 0.36rem;
+  font-weight: 400;
+  color: #FFFFFF;
+  line-height: 0.72rem;
+}
+.qualityDown {
+  width: 38.4rem;
+  height: 24rem;
+  position: relative;
+  background-color: #F4F4F4;
+}
+.downFont1 {
+  position: absolute;
+  top: 1.2rem;
+  left: 18.04rem;
+  font-size: 0.6rem;
+  font-weight: 400;
+  color: #0084FF;
+  line-height: 0.72rem;
+}
+.downFont2 {
+  position: absolute;
+  top: 2.16rem;
+  left: 18.7rem;
+  width: 1.1rem;
+  height: 0.06rem;
+  background: #0084FF;
+}
+.downFont3 {
+  position: absolute;
+  top: 3.36rem;
+  left: 15.36rem;
+  font-size: 0.32rem;
+  font-weight: 400;
+  color: #333333;
+  line-height: 0rem;
+}
+.downFont4 {
+  position: absolute;
+  top: 6.24rem;
+  left: 15.168rem;
+  font-size: 0.36rem;
+  font-weight: 400;
+  color: #E63521;
+  line-height: 0rem;
+}
+.downFont5 {
+  width: 10.04rem;
+  height: 4.92rem;
+  position: absolute;
+  top: 7.2rem;
+  left: 6.72rem;
+}
+.downFont5:hover,
+.downFont10:hover {
+  box-shadow: 0.02rem 0.02rem 0.2px rgba(0, 0, 0, 0.5);
+  margin-top: -0.1rem;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.downFont6 {
+  position: absolute;
+  top: 6rem;
+  left: 18.62rem;
+}
+.downFont6 > img {
+  width: 0.74rem;
+  height: 6.14rem;
+}
+.downFont5 > img,
+.downFont10 > img {
+  width: 10.04rem;
+  height: 4.92rem;
+}
+.triangle,
+.triangle1 {
+  position: absolute;
+  top: 0.2rem;
+  left: -0.3rem;
+  border-top: 0.16rem solid transparent;
+  border-right: 0.32rem solid #FFFFFF;
+  border-bottom: 0.16rem solid transparent;
+}
+.triangle1 {
+  top: 0.2rem;
+  left: 9.8rem;
+  border-right: 0rem solid #FFFFFF;
+  border-left: 0.32rem solid #FFFFFF;
+}
+.downFont7,
+.downFont9 {
+  position: absolute;
+  top: 6.48rem;
+  left: 20rem;
+  width: 9.78rem;
+  height: 4.32rem;
+  font-size: 0.32rem;
+  font-weight: 400;
+  color: #595959;
+  background-color: #FFFFFF;
+  line-height: 0.56rem;
+}
+.downFont11 {
+  position: absolute;
+  top: 12rem;
+  left: 18.96rem;
+  width: 0.05rem;
+  height: 9.12rem;
+  background: #E63521;
+}
+.downFont12 {
+  position: absolute;
+  top: 15.6rem;
+  left: 18.62rem;
+  width: 0.77rem;
+  height: 0.72rem;
+  background: #E63521;
+  border-radius: 50%;
+}
+.downFont9 {
+  top: 9.9rem;
+  left: 6.8rem;
+}
+.downFont8 {
+  position: absolute;
+  position: relative;
+  top: 21.12rem;
+  left: 17.28rem;
+  width: 3.94rem;
+  height: 1.04rem;
+  border: 0.04rem solid #E63521;
+  border-radius: 0.2rem;
+}
+.downFont10 {
+  position: absolute;
+  top: 13.68rem;
+  left: 19.97rem;
+}
+.downFont8 > img {
+  width: 0.52rem;
+  height: 0.52rem;
+  position: absolute;
+  top: 0.28rem;
+  left: 0.6rem;
+}
+.downFont8-1 {
+  position: absolute;
+  top: 0.34rem;
+  left: 1.34rem;
+  width: 2.16rem;
+  height: 0.36rem;
+  font-size: 0.36rem;
+  font-weight: 400;
+  color: #E63521;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 0.36rem;
+}

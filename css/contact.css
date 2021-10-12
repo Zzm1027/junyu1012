@@ -1,0 +1,146 @@
+.mainPic {
+  width: 38.4rem;
+  height: 10.26rem;
+  margin-top: -0.9rem;
+}
+.center {
+  position: relative;
+  width: 38.4rem;
+  height: 38.74rem;
+}
+.font1 {
+  position: absolute;
+  top: 2.08rem;
+  left: 17.7rem;
+  font-size: 0.72rem;
+  font-family: Source Han Sans CN;
+  font-weight: bold;
+  color: #333333;
+}
+.font2 {
+  position: absolute;
+  top: 3.12rem;
+  left: 17.22rem;
+  width: 4rem;
+  height: 0.08rem;
+  background: #666666;
+}
+.font3,
+.font4,
+.font5,
+.font6 {
+  position: absolute;
+  top: 6.04rem;
+  left: 7.18rem;
+  width: 9rem;
+  font-size: 0.48rem;
+  font-family: Source Han Sans CN;
+  font-weight: bold;
+  color: #333333;
+}
+.font4 {
+  position: absolute;
+  top: 7.94rem;
+}
+.font5 {
+  position: absolute;
+  top: 9.74rem;
+}
+.font6 {
+  position: absolute;
+  top: 11.68rem;
+}
+.font7 {
+  position: absolute;
+  top: 6.04rem;
+  left: 19.18rem;
+  width: 5.1rem;
+  font-size: 0.48rem;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #666666;
+}
+.font6 > img {
+  position: absolute;
+  top: -0.5rem;
+  left: 3rem;
+  width: 1.6rem;
+  height: 1.6rem;
+}
+.font9,
+.font11,
+.font13 {
+  position: absolute;
+  top: 7.62rem;
+  left: 24.76rem;
+  font-size: 0.48rem;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #666666;
+}
+.font11 {
+  top: 9.48rem;
+  left: 25.76rem;
+}
+.font13 {
+  top: 11.34rem;
+  left: 26.76rem;
+}
+.font8,
+.font10,
+.font12,
+.font14 {
+  position: absolute;
+  top: 7.62rem;
+  left: 19rem;
+  width: 5rem;
+  height: 0.8rem;
+  background: #EBEBEB;
+  border-radius: 0.1rem;
+  outline: none;
+  border: 0;
+}
+.font14 {
+  top: 14.08rem;
+  left: 7.22rem;
+  width: 23.96rem;
+  height: 9.4rem;
+}
+.font15 {
+  position: absolute;
+  top: 24rem;
+  left: 7.5rem;
+  width: 4.1rem;
+  height: 1.2rem;
+  text-align: center;
+  line-height: 1.2rem;
+  background: #E9635A;
+  box-shadow: 0rem 0.1rem 0.02rem 0rem rgba(189, 75, 67, 0.43);
+  border-radius: 0.1rem;
+  font-size: 0.62rem;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+.font10 {
+  top: 9.48rem;
+  width: 6rem;
+}
+.font12 {
+  top: 11.34rem;
+  width: 7.2rem;
+}
+.img1 {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  top: 24rem;
+  left: 13rem;
+}
+.img2 {
+  position: absolute;
+  width: 24rem;
+  height: 8.36rem;
+  top: 28rem;
+  left: 7.3rem;
+}

@@ -1,0 +1,83 @@
+.enterpriseMain {
+  position: relative;
+  width: 38.4rem;
+  height: 13.5rem;
+}
+.font1,
+.font1-1 {
+  position: absolute;
+  top: 1.5rem;
+  left: 7.14rem;
+  display: inline-block;
+  width: 2.5rem;
+  height: 0.58rem;
+  font-size: 0.6rem;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #3987E7;
+  line-height: 0.72rem;
+}
+.font1-1 {
+  left: 21.14rem;
+}
+.font2,
+.font2-1,
+.font02 {
+  position: absolute;
+  top: 1.5rem;
+  left: 8.8rem;
+  display: inline-block;
+  width: 8rem;
+  height: 0.58rem;
+  font-size: 0.6rem;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #c5c5c5;
+  line-height: 0.72rem;
+}
+.font02 {
+  left: 9.8rem;
+}
+.font2-1 {
+  left: 23.74rem;
+}
+.line1,
+.line1-1 {
+  position: absolute;
+  top: 2.3rem;
+  left: 7.3rem;
+  width: 1rem;
+  height: 0.16rem;
+  background: #3987E7;
+}
+.line1-1 {
+  left: 21.3rem;
+}
+.font3,
+.font3-1 {
+  position: absolute;
+  top: 3.1rem;
+  left: 7.3rem;
+  width: 11.22rem;
+  height: 10.1rem;
+  font-size: 0.48rem;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #333333;
+  line-height: 0.96rem;
+}
+.font3-1 {
+  left: 20.3rem;
+}
+.font4,
+.font4-1 {
+  position: absolute;
+  top: 3.2rem;
+  left: 20rem;
+  width: 12rem;
+  height: 8rem;
+}
+.font4-1 {
+  top: 2.8rem;
+  left: 7rem;
+}

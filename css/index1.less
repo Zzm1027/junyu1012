@@ -1,0 +1,164 @@
+@import "common.less";
+@baseFont: 50;
+
+
+html, body {
+    width: (1920rem / @baseFont);
+    font-family: Microsoft YaHei;
+    overflow-x: hidden;
+}
+
+ 
+header {
+    width: (1920rem / @baseFont);
+    height: (60rem / @baseFont);
+
+}
+
+.jump,.font2,.footer2,.aboutMore,.more, .detailedMore,.productMore,.newsFont2-3 ,.introduce > div,.problem,.problemFont2,.productFont {
+    text-align: center;
+}
+.logo {
+    width: (60rem / @baseFont);
+    height: (60rem / @baseFont);
+    margin-left: (316rem / @baseFont);
+}
+.jump {
+    width: (1534rem / @baseFont);
+    height: (60rem / @baseFont);
+    line-height: (40rem / @baseFont);
+    margin-top: -1.5rem;
+    float: right;
+}
+
+.jump > li {
+    display: inline;
+    font-size: (20rem / @baseFont);
+    font-weight: normal;
+    cursor: pointer;
+    padding-right:(37.5rem / @baseFont);
+}
+.jump >li> a{
+    color: #333333;
+}
+.jump>li>.cur{ color: #5dc533
+}
+.jump >li> a:hover {
+    color: #3488EA;
+    text-decoration: #3488EA;
+}
+
+
+.changeColor{
+    color: #3488EA;
+}
+
+.footer1{
+    width: 38.4rem;
+    height: 7.36rem;
+    background: #333333;
+    position: relative;
+    font-size: 0.36rem;
+    color: #FFFEFE;
+}
+.footer1-1{
+    position: absolute;
+    top: 3.15rem;
+    left: 8rem;
+}
+
+
+.footer1-1>div:nth-child(1),.footer2-1>div:nth-child(1),.footer3-1>div:nth-child(1),.footer4-1>div:nth-child(1),.footer5-1>div:nth-child(1){
+    position: absolute;
+    top: -0.88rem;
+}
+.linka{
+    padding-bottom: 0.15rem;
+}
+.linka>a{
+color: #FFFFFF;
+}
+.footer2-1{
+    position: absolute;
+    top: 3.15rem;
+    left: 11rem;
+}
+.footer3-1{
+    position: absolute;
+    top: 3.15rem;
+    left: 14rem;
+}
+.footer4-1{
+    position: absolute;
+    top: 3.15rem;
+    left: 17rem;
+}
+.footer5-1{
+    position: absolute;
+    top: 3.15rem;
+    left: 20rem;
+}
+.footer6-1{
+    position: absolute;
+    top: 1.95rem;
+    left: 28rem;
+}
+.footer6-1 > img {
+    width: 4rem;
+    height: 4rem;
+}
+.footer2{
+    width:38.4rem;;
+    height: 2.44rem;
+    line-height: 2.44rem;
+    background: #222222;
+    font-size: 0.26rem;
+    font-weight: 400;
+    color: #FEFEFE;
+    text-align: center;
+}
+
+
+.down {
+    position: absolute;
+    top: 32.3rem;
+    left: 14.1rem;
+    width: 15.36rem;
+    height: 0.68rem;
+
+}
+
+ul.down {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ul.down li {
+    display: inline;
+}
+
+ul.down li a {
+    color: #666666;
+    float: left;
+    font-size: 0.16rem;
+    margin-left: 0.5rem;
+    padding: 0.16rem 0.32rem;
+    text-decoration: none;
+}
+
+ul.down li a.active {
+    background: #FFFFFF;
+    color: #666666;
+    border: 0.02rem solid #E6E6E6;
+    border-radius: 0.1rem;
+}
+
+ul.down li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+ul.down li a.select {
+    background-color: #2e6da4;
+    color: #FFFFFF;
+}
